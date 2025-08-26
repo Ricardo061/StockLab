@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/StockLab.dir/main.cpp.o CMakeFiles/StockLab.dir/registercomp.cpp.o CMakeFiles/StockLab.dir/users.cpp.o -o StockLab

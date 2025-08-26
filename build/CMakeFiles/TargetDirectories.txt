@@ -1,0 +1,3 @@
+/Users/joaoricardochaves/Documents/JR Eletronica/StockLab/build/CMakeFiles/StockLab.dir
+/Users/joaoricardochaves/Documents/JR Eletronica/StockLab/build/CMakeFiles/edit_cache.dir
+/Users/joaoricardochaves/Documents/JR Eletronica/StockLab/build/CMakeFiles/rebuild_cache.dir

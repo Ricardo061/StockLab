@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/joaoricardochaves/Documents/JR Eletronica/StockLab/build",
+  "command": "/usr/bin/c++ -DDATA_PATH=\"\\\"/Users/joaoricardochaves/Documents/JR Eletronica/StockLab/build/data/\\\"\"  -g -std=gnu++17 -arch arm64 -o CMakeFiles/StockLab.dir/main.cpp.o -c \"/Users/joaoricardochaves/Documents/JR Eletronica/StockLab/main.cpp\"",
+  "file": "/Users/joaoricardochaves/Documents/JR Eletronica/StockLab/main.cpp",
+  "output": "CMakeFiles/StockLab.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/joaoricardochaves/Documents/JR Eletronica/StockLab/build",
+  "command": "/usr/bin/c++ -DDATA_PATH=\"\\\"/Users/joaoricardochaves/Documents/JR Eletronica/StockLab/build/data/\\\"\"  -g -std=gnu++17 -arch arm64 -o CMakeFiles/StockLab.dir/registercomp.cpp.o -c \"/Users/joaoricardochaves/Documents/JR Eletronica/StockLab/registercomp.cpp\"",
+  "file": "/Users/joaoricardochaves/Documents/JR Eletronica/StockLab/registercomp.cpp",
+  "output": "CMakeFiles/StockLab.dir/registercomp.cpp.o"
+},
+{
+  "directory": "/Users/joaoricardochaves/Documents/JR Eletronica/StockLab/build",
+  "command": "/usr/bin/c++ -DDATA_PATH=\"\\\"/Users/joaoricardochaves/Documents/JR Eletronica/StockLab/build/data/\\\"\"  -g -std=gnu++17 -arch arm64 -o CMakeFiles/StockLab.dir/users.cpp.o -c \"/Users/joaoricardochaves/Documents/JR Eletronica/StockLab/users.cpp\"",
+  "file": "/Users/joaoricardochaves/Documents/JR Eletronica/StockLab/users.cpp",
+  "output": "CMakeFiles/StockLab.dir/users.cpp.o"
+}
+]
