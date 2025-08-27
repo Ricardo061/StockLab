@@ -21,3 +21,14 @@ O sistema foi desenvolvido para ser utilizado diretamente no **terminal**, ofere
 - `main.cpp` – código principal do sistema  
 - `estoque.txt` – banco de dados simples para armazenar os registros  
 - `users.txt` - banco de dados de usuarios, afim de estudar como montar um sistema de login, foi implementado um sistema simples, mas funcional!
+
+## Imagens do programa no Terminal
+
+<p align="center">
+  <img src="Figuras/login.png" width="400" />
+  <img src="Figuras/option.png" width="400" />
+</p>
+
+<p align="center">
+  <b>(a)</b> Sistema de Login. &nbsp;&nbsp;&nbsp; <b>(b)</b> Sistema de Estoque.
+</p>
